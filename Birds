@@ -2,7 +2,7 @@
 <script src="vanta.birds.min.js"></script>
 <script>
 VANTA.BIRDS({
-  el: "#vanta.js",
+  el: "#my-background",
   backgroundColor: 0x9111b,
   color1: 0x#ed145a,
   color2: 0x#22abc7,
